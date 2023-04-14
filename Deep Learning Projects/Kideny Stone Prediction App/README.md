@@ -1,2 +1,3 @@
 
  The aim of this project is to develop a machine learning and deep learning model that can predict the presence of kidney stones in patients based on their medical history, lab reports, and other relevant factors. The model will be trained on a large dataset of patient data and will use advanced techniques such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks to achieve high accuracy. The model will be deployed on the web using Streamlit Cloud, a powerful platform for building and deploying data applications
+ Output: https://www.linkedin.com/feed/update/urn:li:activity:7052712040569733121/
